@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/sergio/source/repos/ccourse'
+make: Leaving directory '/home/sergio/source/repos/ccourse'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
