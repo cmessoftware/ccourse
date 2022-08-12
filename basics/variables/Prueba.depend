@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660309182 source:/home/sergio/source/repos/ccourse/basics/Prueba/main.c
+	<stdio.h>
+	<stdlib.h>
+
